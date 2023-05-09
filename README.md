@@ -35,6 +35,8 @@ Then on the Spark shell run the below command from CLI
 $ Python main.py
 or
 $ spark-submit main.py
+
+
 Architecture
 
 ![architecture](https://github.com/aaditi12/ineuron-internship-project-movie-analytics/assets/126409398/89ca75bd-1bc1-47c4-85e3-4cda408a1197)
